@@ -11,13 +11,13 @@ I am a Canadian technical writer and information architect with over 20 years of
 
 Direct-to-business contract support is available globally. I partner with tech enterprises and fast-scaling startups to eliminate documentation friction and build scalable content infrastructure.
 
-#Services Offered
+### Services Offered
 
 * Docs-As-Code & Platform Migrations: Shifting legacy documentation into modern, markdown-driven, scalable architectures.
 * Developer Experience (DX) & API Audits: Restructuring developer portals so global engineers can integrate your software instantly.
 * Content Redesign & Information Architecture: Untangling massive corporate knowledge bases to lower customer support tickets.
 
-#My Approach
+### My Approach
 
 As a UX Advocate, I don’t just write manuals; I manage the entire content lifecycle. This includes refining API and developer documentation, performing UI string reviews for global apps, and leveraging real-world insights from Reddit and community forums to continuously improve product usability.
 
