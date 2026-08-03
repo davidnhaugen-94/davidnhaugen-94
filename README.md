@@ -1,14 +1,23 @@
-### Senior Technical Writer | Information Architect | Documentation Content Manager
-New Taipei City, Taiwan (Available for Local In-Office & Remote)
+### Information Architect & Docs Consultant • Available for Global Contracts
+New Taipei City, Taiwan (100% Remote / Asynchronous Support)
 
  [[://linkedin.com]](https://www.linkedin.com/in/davidnhaugen)
 
 ---
 
 ## Professional Overview
-I bridge the gap between complex engineering (RD) and the global user experience.
 
-With over 25 years in the software industry, I specialize in creating high-impact content strategies for both B2B and B2C markets. My expertise lies in transforming sophisticated technologies into intuitive documentation and seamless UI experiences.
+I am a Canadian technical writer and information architect with over 20 years of experience bridging the gap between complex engineering frameworks and global users.
+
+Direct-to-business contract support is available globally. I partner with tech enterprises and fast-scaling startups to eliminate documentation friction and build scalable content infrastructure.
+
+#Services Offered
+
+* Docs-As-Code & Platform Migrations: Shifting legacy documentation into modern, markdown-driven, scalable architectures.
+* Developer Experience (DX) & API Audits: Restructuring developer portals so global engineers can integrate your software instantly.
+* Content Redesign & Information Architecture: Untangling massive corporate knowledge bases to lower customer support tickets.
+
+#My Approach
 
 As a UX Advocate, I don’t just write manuals; I manage the entire content lifecycle. This includes refining API and developer documentation, performing UI string reviews for global apps, and leveraging real-world insights from Reddit and community forums to continuously improve product usability.
 
