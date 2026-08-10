@@ -38,7 +38,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 ### 1. API Portal Standardization & Release Governance (Case Study)
 
-* The Challenge (Situation): Engineering teams were producing highly technical API content, but the formatting, terminology, and structure lacked consistency. This created onboarding friction for global enterprise clients and increased the support burden on product managers. [1, 2]
+* The Challenge (Situation): Engineering teams were producing highly technical API content, but the formatting, terminology, and structure lacked consistency. This created onboarding friction for global enterprise clients and increased the support burden on product managers.
 * My Role (Action): I acted as the Senior Editorial and Information Architect lead. I reviewed all developer-facing API content, standardized the documentation layout, and built a unified formatting system. I aligned the technical documentation directly with software updates to guarantee absolute accuracy before client delivery.
 * The Outcome (Result): Delivered a polished, synchronized, and client-ready developer portal. This eliminated structural confusion, protected the company’s enterprise branding, and allowed global integration partners to onboard seamlessly.
 
@@ -57,8 +57,3 @@ _Note: right-click links to open in a new tab._
 * [View Photo Editing Knowledge Base](https://help.cyberlink.com/stat/help/photodirector/2025/pc/enu/index.html) — *User navigation layout optimized for raw image processing, layer management, and digital photo curation.*
 * [View Audio Editing Reference Module](https://help.cyberlink.com/stat/help/audiodirector/2025/enu/index.html) — *Clear, step-by-step documentation detailing audio track mixing, waveform editing, and master output settings.*
 * [View Color Grading Digital Help Guide](https://help.cyberlink.com/stat/help/colordirector/2025/enu/index.html) — *Complete help layout explaining color space management, LUT integration, and grading panel workflows.*
-
----
-
-## Professional References
-* Full contact information and professional reference recommendations from project leaders and cross-functional partners in Taiwan are available securely upon formal email request.
