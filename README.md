@@ -36,14 +36,20 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 ## Portfolio Artifacts & Documentation Downloads
 
-### 1. Product Documentation & Hardware Installation Samples
+### 1. API Portal Standardization & Release Governance (Case Study)
+
+* The Challenge (Situation): Engineering teams were producing highly technical API content, but the formatting, terminology, and structure lacked consistency. This created onboarding friction for global enterprise clients and increased the support burden on product managers. [1, 2]
+* My Role (Action): I acted as the Senior Editorial and Information Architect lead. I reviewed all developer-facing API content, standardized the documentation layout, and built a unified formatting system. I aligned the technical documentation directly with software updates to guarantee absolute accuracy before client delivery.
+* The Outcome (Result): Delivered a polished, synchronized, and client-ready developer portal. This eliminated structural confusion, protected the company’s enterprise branding, and allowed global integration partners to onboard seamlessly.
+
+### 2. Product Documentation & Hardware Installation Samples
 
 * [Enterprise Unified Communications User Manual](./samples/public-software-user-manual.pdf) — *The complete, comprehensive user guide for a messaging and online meeting platform. Downloaded directly from the public corporate website, this asset demonstrates large-scale content curation, multi-chapter navigation design, and the complete feature documentation.*
 * [Facial Recognition Terminal Setup Guide](./samples/sanitized-access-terminal-setup-guide.pdf) — *A fully sanitized, NDA-compliant enterprise software installation manual for access terminal hardware. Branding has been removed to preserve IP while showcasing structural hierarchy and information mapping.*
 * [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide1.pdf) — *Commercially released in 2023. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
 * [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide2.pdf) — *Commercially released last fall. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
 
-### 2. Live Knowledge Base & Web Help Centers (Creative Software Suite)
+### 3. Live Knowledge Base & Web Help Centers (Creative Software Suite)
 
 _Note: right-click links to open in a new tab._
 
@@ -51,16 +57,6 @@ _Note: right-click links to open in a new tab._
 * [View Photo Editing Knowledge Base](https://help.cyberlink.com/stat/help/photodirector/2025/pc/enu/index.html) — *User navigation layout optimized for raw image processing, layer management, and digital photo curation.*
 * [View Audio Editing Reference Module](https://help.cyberlink.com/stat/help/audiodirector/2025/enu/index.html) — *Clear, step-by-step documentation detailing audio track mixing, waveform editing, and master output settings.*
 * [View Color Grading Digital Help Guide](https://help.cyberlink.com/stat/help/colordirector/2025/enu/index.html) — *Complete help layout explaining color space management, LUT integration, and grading panel workflows.*
-
-### 3. API & Software Release Documentation Review Workflow
-* **Methodology**: Version Control Audit and Change Verification (Git / SVN / PDF Comparison)
-* **My Role**: Document Quality Gatekeeper and Technical Reviewer
-* **Context**: Collaborated with R&D teams during software release cycles to review updates across **over 40 API and technical documents**. 
-
-### How I Worked:
-* **Tracked Changes**: Monitored R&D updates checked directly into Git or SVN repositories, or conducted side-by-side PDF comparisons to identify new or modified features.
-* **Verified Clarity**: Audited all technical additions to ensure the English phrasing was accurate, the layout remained consistent, and the text was user-friendly.
-* **Release Authorization**: Acted as the final quality gatekeeper, refining formatting and text clarity before documentation was pushed live to developers and enterprise clients.
 
 ---
 
