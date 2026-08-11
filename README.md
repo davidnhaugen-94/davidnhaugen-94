@@ -47,7 +47,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 * [Enterprise Unified Communications User Manual](./samples/public-software-user-manual.pdf) — *The complete, comprehensive user guide for a messaging and online meeting platform. Downloaded directly from the public corporate website, this asset demonstrates large-scale content curation, multi-chapter navigation design, and the complete feature documentation.*
 * [Facial Recognition Terminal Setup Guide](./samples/sanitized-access-terminal-setup-guide.pdf) — *A fully sanitized, NDA-compliant enterprise software installation manual for access terminal hardware. Branding has been removed to preserve IP while showcasing structural hierarchy and information mapping.*
 * [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide1.pdf) — *Commercially released in 2023. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
-* [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide2.pdf) — *Commercially released last fall. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
+* [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide2.pdf) — *Commercially released in 2025. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
 
 ### 3. Live Knowledge Base & Web Help Centers (Creative Software Suite)
 
