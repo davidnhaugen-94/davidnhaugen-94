@@ -14,8 +14,8 @@ Direct-to-business contract support is available globally. As an experienced tec
 ### Services Offered
 
 * Docs-As-Code & Platform Migrations: Shifting legacy documentation into modern, markdown-driven, scalable architectures.
-* Developer Experience (DX) & API Audits: Restructuring developer portals so global engineers can integrate your software instantly.
-* Content Redesign & Information Architecture: Untangling massive corporate knowledge bases to lower customer support tickets.
+* Developer Documentation & API Review: Restructuring developer pportals to improve information architecture, navigation, and content discoverability.
+* Content Redesign & Information Architecture: Restructuring complex knowledge bases to make information easier to find and reduce support requests.
 
 ### My Approach
 
