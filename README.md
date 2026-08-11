@@ -9,7 +9,7 @@ New Taipei City, Taiwan (100% Remote / Flexible & Independent)
 
 I am a Canadian technical writer and information architect with over 20 years of experience bridging the gap between complex engineering frameworks and global users.
 
-Direct-to-business contract support is available globally. I partner with tech enterprises and fast-scaling startups to eliminate documentation friction and build scalable content infrastructure.
+Direct-to-business contract support is available globally. As an experienced technical writer who has adapted to modern documentation practices, I specialize in restructuring complex documentation so users can find what they need faster.
 
 ### Services Offered
 
