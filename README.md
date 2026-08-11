@@ -14,7 +14,7 @@ Direct-to-business contract support is available globally. As an experienced tec
 ### Services Offered
 
 * Docs-As-Code & Platform Migrations: Shifting legacy documentation into modern, markdown-driven, scalable architectures.
-* Developer Documentation & API Review: Restructuring developer pportals to improve information architecture, navigation, and content discoverability.
+* Developer Documentation & API Review: Restructuring developer portals to improve information architecture, navigation, and content discoverability.
 * Content Redesign & Information Architecture: Restructuring complex knowledge bases to make information easier to find and reduce support requests.
 
 ### My Approach
