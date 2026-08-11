@@ -19,7 +19,7 @@ Direct-to-business contract support is available globally. I partner with tech e
 
 ### My Approach
 
-As a UX Advocate, I don’t just write manuals; I manage the entire content lifecycle. This includes refining API and developer documentation, performing UI string reviews for global apps, and leveraging real-world insights from Reddit and community forums to continuously improve product usability.
+As a UX Advocate, I don’t just write manuals; I manage the entire content lifecycle. This includes refining API and developer documentation, performing UI string reviews for global apps, and leveraging real-world insights to continuously improve product usability.
 
 I thrive in collaborative environments, partnering with stakeholders across product, engineering, and customer-facing teams to deliver high-quality documentation that drives customer success and reduces support overhead.
 
