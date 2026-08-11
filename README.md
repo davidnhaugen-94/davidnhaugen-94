@@ -13,9 +13,9 @@ Direct-to-business contract support is available globally. As an experienced tec
 
 ### Services Offered
 
-* Documentation Migration & Format Conversion: Converting existing documentation between tools and formats, including FrameMaker, Word, Help & Manual, and Markdown.
-* Developer Documentation & API Review: Restructuring developer portals to improve information architecture, navigation, and content discoverability.
-* Content Redesign & Information Architecture: Restructuring complex knowledge bases to make information easier to find and reduce support requests.
+* **Documentation Migration & Format Conversion**: Converting existing documentation between tools and formats, including FrameMaker, Word, Help & Manual, and Markdown.
+* **Developer Documentation & API Review**: Restructuring developer portals to improve information architecture, navigation, and content discoverability.
+* **Content Redesign & Information Architecture**: Restructuring complex knowledge bases to make information easier to find and reduce support requests.
 
 ### My Approach
 
@@ -38,9 +38,9 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 ### 1. API Portal Standardization & Release Governance (Case Study)
 
-* The Challenge: Engineering teams were producing highly technical API content, but the formatting, terminology, and structure varied because they used different tools and editorial standards.
-* My Role: I supported the R&D team by reviewing developer-facing API documentation, improving English clarity, and standardizing formatting and presentation across the documentation. I aligned the technical documentation directly with software updates to guarantee absolute accuracy before client delivery.
-* The Outcome: Delivered a polished, synchronized, and client-ready developer portal. This resulted in more consistent documentation structure and presentation, making the content easier to review, maintain, and navigate.
+* **The Challenge**: Engineering teams were producing highly technical API content, but the formatting, terminology, and structure varied because they used different tools and editorial standards.
+* **My Role**: I supported the R&D team by reviewing developer-facing API documentation, improving English clarity, and standardizing formatting and presentation across the documentation. I aligned the technical documentation directly with software updates to guarantee absolute accuracy before client delivery.
+* **The Outcome**: Delivered a polished, synchronized, and client-ready developer portal. This resulted in more consistent documentation structure and presentation, making the content easier to review, maintain, and navigate.
 
 ### 2. Product Documentation & Hardware Installation Samples
 
