@@ -1,4 +1,4 @@
-### Information Architect & Docs Consultant • Available for Global Contracts
+### Information Architect, Docs Consultant, & Senior Technical Writer • Available for Global Contracts
 New Taipei City, Taiwan (100% Remote / Flexible & Independent)
 
  [[://linkedin.com]](https://www.linkedin.com/in/davidnhaugen)
