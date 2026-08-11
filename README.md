@@ -38,7 +38,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 ### 1. API Portal Standardization & Release Governance (Case Study)
 
-* The Challenge: Engineering teams were producing highly technical API content, but the formatting, terminology, and structure lacked consistency, because the engineers were using different tools, formatting conventions, and editorial standards across the API documentation.
+* The Challenge: Engineering teams were producing highly technical API content, but the formatting, terminology, and structure lacked consistency, because they used different tools, formatting conventions, and editorial standards across the documentation.
 * My Role: I supported the R&D team by reviewing developer-facing API documentation, improving English clarity, and standardizing formatting and presentation across the documentation. I aligned the technical documentation directly with software updates to guarantee absolute accuracy before client delivery.
 * The Outcome: Delivered a polished, synchronized, and client-ready developer portal. This resulted in more consistent documentation structure and presentation, making the content easier to review, maintain, and navigate.
 
