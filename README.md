@@ -27,8 +27,8 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 ## Technical Stack & Core Competencies
 * **Documentation Strategy**: Information Architecture (IA), Content Curation, Content Lifecycle Management, Single-Sourcing, Release Readiness
-* **Technical Writing**: Developer API Documentation (Markdown/JSON/XML), End-User Help Systems, Technical Setup Manuals, UI/UX Microcopy
-* **Core Toolsets**: Help + Manual, Adobe FrameMaker, EmEditor, Git/GitHub, SourceTree, TortoiseSVN, HTML/CSS
+* **Technical Writing**: Developer & API Documentation (Markdown/JSON/XML), End-User Help Systems, Technical Setup Manuals, UI/UX Text & Messaging
+* **Core Tools & Technologies**: Help + Manual, Adobe FrameMaker, EmEditor, Git/GitHub, SourceTree, TortoiseSVN, HTML/CSS
 * **Analytical Foundations**: Business Analysis, Software Quality Assurance (QA) Protocols, Test Execution
 * **Emerging Capabilities**: AI Prompting, Prompt Engineering, AI Productivity Workflows
 
